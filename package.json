@@ -1,0 +1,20 @@
+{
+  "name": "assignment_03_weather_app",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "server.js",
+  "scripts": {
+    "test": "yo",
+    "start": "nodemon server.js"
+  },
+  "author": "benoit",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "trash": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
